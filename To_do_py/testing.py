@@ -3,3 +3,6 @@
 
 
 print('Just to check the github contributions green sign !')
+
+for i in range(0,n):
+    print('Hello')
